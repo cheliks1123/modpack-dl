@@ -1,0 +1,8 @@
+Initial commit: modpack-dl with Windows installer and CI
+
+Downloads all mods of a Modrinth (.mrpack) or CurseForge (.zip) modpack.
+Includes Inno Setup script and GitHub Actions workflow that builds the
+exe (PyInstaller) and the installer on a Windows runner.
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01CYyfau9qweLcDk28nMckbQ
